@@ -50,7 +50,7 @@
 
 ::selection {
   background: #008000; /* колір фону виділення */
-  color: white; /* колір тексту при виділенні */
+  color: white; 
 }
 
 ul {
