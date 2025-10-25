@@ -22,7 +22,7 @@
   border-radius: 20px;
   width: 329px;
   position: fixed;
-  left: 655px;
+  left: 570px;
 }
 
 .inputForm {
@@ -70,6 +70,7 @@ ul {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 60px;
 }
 
 .btnlist {
